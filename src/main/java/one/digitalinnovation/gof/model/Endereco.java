@@ -18,7 +18,6 @@ public class Endereco {
     private String ddd;
     private String siafi;
 
-    // Getters e Setters
     public String getCep() {
         return cep;
     }
@@ -98,4 +97,5 @@ public class Endereco {
     public void setSiafi(String siafi) {
         this.siafi = siafi;
     }
+
 }
